@@ -96,8 +96,7 @@ Output Verification: Ensure every generated output is clearly displayed in a run
   models = ["Datsun 710", "Lotus Europa", "Ferrari Dino"]
   selected_cars = cars.loc[cars["Model"].isin(models), ["Model", "mpg", "cyl", "hp", "gear"]]
 
-  print("Shape of selected_cars:
-", selected_cars.shape)
+  print("Shape of selected_cars: ", selected_cars.shape)
   ```
 - **Output Shape:** `(3, 5)`
 
