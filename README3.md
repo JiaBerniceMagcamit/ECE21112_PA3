@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Overview
+##  Overview
 This repository contains the solution for **Programming Assignment 3 (PA3)** in ECE 21112. The assignment focuses on data wrangling, indexing, filtering, and slicing operations using the `pandas` library in Python on the classic `cars.csv` (mtcars) dataset.
 
 ---
@@ -70,7 +70,7 @@ Output Verification: Ensure every generated output is clearly displayed in a run
 
 ---
 
-### 🔍 Problem B: Conditional Selection & Slicing
+### Problem B: Conditional Selection & Slicing
 
 1. **Filtering by Model (Full Record)**
    - **Task:** Extract all details for the model `'Toyota Corolla'`.
@@ -88,7 +88,7 @@ Output Verification: Ensure every generated output is clearly displayed in a run
 
 ---
 
-### 🎯 Problem C: Multi-Condition Data Extraction
+### Problem C: Multi-Condition Data Extraction
 
 - **Task:** Extract specific attributes (`Model`, `mpg`, `cyl`, `hp`, `gear`) for the models `'Datsun 710'`, `'Lotus Europa'`, and `'Ferrari Dino'`. Print the shape of the filtered result.
 - **Code:**
